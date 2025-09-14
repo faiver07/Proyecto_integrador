@@ -67,8 +67,3 @@ El proyecto se desarrolla en tres fases:
 - Ampliar el dataset con más consultas a la API de Yelp.  
 - Aplicar modelos de **Machine Learning** para segmentación de clientes.  
 - Desplegar un dashboard interactivo con **Streamlit o Dash**.  
-
----
-
-## 👨‍💻 Autor
-Proyecto desarrollado por **[Tu Nombre]** como práctica de análisis de datos y uso de APIs en Python.  
